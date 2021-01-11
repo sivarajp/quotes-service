@@ -1,0 +1,4 @@
+BuildMerge{
+   platform = "java"
+   build = "gradle"
+}
